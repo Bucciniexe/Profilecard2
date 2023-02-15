@@ -1,8 +1,8 @@
 # Profilecard2
 ![01ed3d4c4a74617dc4636369edb754f1](https://user-images.githubusercontent.com/123178455/213806016-d50324e6-501c-4c5e-96bd-423cc19fe5f1.jpg)
 
-Another version of the profile card
-Profile card with customizable contents
+Another version of the profile card<br>
+**Profile card with customizable contents**
 
 * You can change the icon, font, cursor, color table and background. 
 * Add your info/bio
