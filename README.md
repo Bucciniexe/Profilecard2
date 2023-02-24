@@ -27,4 +27,4 @@ Another version of the profile card<br>
 
 [See it running](https://profilecard02.netlify.app/) 
 
-If you want to give me a little gift, I'd appreciate it [Buymeacoffe](https://www.buymeacoffee.com/buccini)
+If you want to give me a little gift, I'd appreciate it [ko-fi](https://ko-fi.com/buccini555)
